@@ -5,12 +5,12 @@
  <form>
   <div class="form-group">
     <label for="exampleInputEmail1 ">Email address</label>
-    <input type="email" class="  hover-class form-control pi1" id="exampleInputEmail1" aria-describedby="emailHelp" style="font-family :'Font Awesome 5 Free';" placeholder="    Enter email">
+    <input type="email" class="  hover-class form-control pi1" id="exampleInputEmail1" aria-describedby="emailHelp" style="font-family:Arial, FontAwesome" placeholder="&#xf007;   Enter email">
     <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
   </div>
   <div class="form-group">
     <label for="exampleInputPassword1">Password</label>
-    <input style="font-family : 'FontAwesome';" type="password" class=" hover-class form-control" id="exampleInputPassword1"  placeholder="    Password">
+    <input style="font-family:Arial, FontAwesome" type="password" class=" hover-class form-control" id="exampleInputPassword1"  placeholder="&#xf13e;   Password">
   </div>
  
  
@@ -47,7 +47,7 @@ export default {
 .login{
  background-color: whitesmoke;
   height: 550px;
-  box-shadow: 10px 25px 30px rgb(167, 17, 197);
+  box-shadow: 5px 10px 25px rgb(193, 87, 214);
    /* animation: mymove 3s infinite; */
   
 }
